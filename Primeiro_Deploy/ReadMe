@@ -1,0 +1,12 @@
+Esse projeto consiste no Deploy do site mundo invertido utilizando vagrant.
+
+Para testar é necessário instalar o software VirtualBox e o Vagrant.
+
+Passo a passo:
+
+1 - Instale VirtualBox e Vagrant
+2 - No seu terminal dê o comando 'vagrant init'
+3 - Ainda no terminal digite o comando 'vagrant up'para inciar a vm
+4 - Dê o comando 'vagrant provision' para provisior a estrutura de forma automatizada de acordo com o shell script baixado neste repositório e ao final do script
+será exibido o ip do web server que contém o site mundo invertido.
+5 - Deploy concluído, pode testar e utilizar o site.
