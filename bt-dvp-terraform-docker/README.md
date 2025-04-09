@@ -91,11 +91,3 @@ terraform apply
     "sudo docker container exec desafio_gb sh /app/comentarios.sh"
     ```
 
-## OBSERVAÇÃO
-
-Todo este projeto foi construido dentro de um processo seletivo!!! Por este motivo que você vai ver o nome da imagem como "desafio_gb".. 😁
-
-
-## Authors
-
-* **Luiz Carlos Nascimento Junior**
